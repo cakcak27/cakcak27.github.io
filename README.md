@@ -4,4 +4,4 @@
 
 
 - 🔭 I’m currently working on Safemore Duta Corpora
-- 🌱 I’m currently learning python, node, vuejs, fastapi, postgresql
+- 🌱 I’m currently learning expressjs, vuejs, fastapi, postgresql, little bit react
