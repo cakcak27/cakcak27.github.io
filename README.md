@@ -3,5 +3,5 @@
 ### Live Coding 👋
 
 
-- 🔭 I’m currently working on Safemore Duta Corpora
+- 🔭 I’m currently working on Wiratek.co
 - 🌱 I’m currently learning expressjs, vuejs, fastapi, postgresql, little bit react
